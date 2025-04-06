@@ -47,4 +47,4 @@ This is an AI, nothing it says should be taken seriously! We are using Mistral, 
 ---
 
 ## Thanks!
-Thank you for looking at my GitHub page! I hope you enjoyed my work and have some fun with this simple script. Feel free to leave you feedback on the comments.
+Thank you for looking at my GitHub page! I hope you enjoyed my work and have some fun with this simple script.
