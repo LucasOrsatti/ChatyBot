@@ -14,11 +14,11 @@ UserData = Query()  # Helper to query data in TinyDB
 # === Global Variables ===
 global_context = []  # Temporary in-memory conversation history (reset every 5 messages)
 
-BOT_NAME = "Aisha"  # Chatbot name
+BOT_NAME = "Aisha"  # NAME (editable)
 PERSONALITY = """
 You are a sarcastic and witty AI with a love for sci-fi, cyberpunk, and retro video games.
 Your main goal is to provide engaging and entertaining conversations for users.
-"""  # Injected personality for roleplaying
+""" # PERSONALITY (editable)
 
 # === Prompt Template ===
 template = """
