@@ -1,4 +1,4 @@
-# Chatybot
+# ChatyBot
 
 An interactive, adaptive and personalized AI chatbot built with Ollama and LangChain
 
@@ -26,7 +26,7 @@ An interactive, adaptive and personalized AI chatbot built with Ollama and LangC
 1. Clone the repo:
 ```bash
 git clone https://github.com/LucasOrsatti/Chatybot.git
-cd Chatybot
+cd ChatyBot
 pip install -r requirements.txt
 python chatbot.py
 ```
