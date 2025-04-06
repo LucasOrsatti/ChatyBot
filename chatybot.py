@@ -5,7 +5,7 @@ import atexit  # To handle actions on program exit (saving memory)
 from langchain_ollama import OllamaLLM  # Interface for using Ollama LLMs with LangChain
 from langchain_core.prompts import ChatPromptTemplate  # For dynamic prompt templates
 from tinydb import TinyDB, Query  # Lightweight local NoSQL database
-from colorama import Fore, Style  # For colored terminal output
+from colorama import Fore# For colored terminal output
 
 # === Database Setup ===
 db = TinyDB("memory.json")  # File to store conversation summaries
